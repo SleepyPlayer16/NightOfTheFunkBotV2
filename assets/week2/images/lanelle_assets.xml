@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lanelle_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lanelleDOWN0000" x="20" y="20" width="332" height="711" frameX="0" frameY="-25" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0001" x="20" y="20" width="332" height="711" frameX="0" frameY="-25" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0002" x="372" y="20" width="334" height="720" frameX="-4" frameY="-16" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0003" x="372" y="20" width="334" height="720" frameX="-4" frameY="-16" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0004" x="726" y="20" width="316" height="736" frameX="-11" frameY="0" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0005" x="726" y="20" width="316" height="736" frameX="-11" frameY="0" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0006" x="726" y="20" width="316" height="736" frameX="-11" frameY="0" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0007" x="726" y="20" width="316" height="736" frameX="-11" frameY="0" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0008" x="726" y="20" width="316" height="736" frameX="-11" frameY="0" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0009" x="726" y="20" width="316" height="736" frameX="-11" frameY="0" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0010" x="726" y="20" width="316" height="736" frameX="-11" frameY="0" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0011" x="726" y="20" width="316" height="736" frameX="-11" frameY="0" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0012" x="726" y="20" width="316" height="736" frameX="-11" frameY="0" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0013" x="726" y="20" width="316" height="736" frameX="-11" frameY="0" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleDOWN0014" x="726" y="20" width="316" height="736" frameX="-11" frameY="0" frameWidth="338" frameHeight="736"/>
+	<SubTexture name="lanelleIDLE0000" x="1062" y="20" width="250" height="761" frameX="-15" frameY="-16" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0001" x="1062" y="20" width="250" height="761" frameX="-15" frameY="-16" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0002" x="1332" y="20" width="264" height="768" frameX="-1" frameY="-9" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0003" x="1332" y="20" width="264" height="768" frameX="-1" frameY="-9" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0004" x="1616" y="20" width="260" height="774" frameX="0" frameY="-3" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0005" x="1616" y="20" width="260" height="774" frameX="0" frameY="-3" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0006" x="1896" y="20" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0007" x="1896" y="20" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0008" x="1896" y="20" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0009" x="1896" y="20" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0010" x="1896" y="20" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0011" x="1896" y="20" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0012" x="1896" y="20" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0013" x="1896" y="20" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleIDLE0014" x="1896" y="20" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleLEFT0000" x="2169" y="20" width="346" height="752" frameX="-1" frameY="-2" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0001" x="2169" y="20" width="346" height="752" frameX="-1" frameY="-2" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0002" x="2535" y="20" width="347" height="753" frameX="0" frameY="-1" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0003" x="2535" y="20" width="347" height="753" frameX="0" frameY="-1" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0004" x="2902" y="20" width="345" height="754" frameX="-2" frameY="0" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0005" x="2902" y="20" width="345" height="754" frameX="-2" frameY="0" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0006" x="2902" y="20" width="345" height="754" frameX="-2" frameY="0" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0007" x="2902" y="20" width="345" height="754" frameX="-2" frameY="0" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0008" x="2902" y="20" width="345" height="754" frameX="-2" frameY="0" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0009" x="2902" y="20" width="345" height="754" frameX="-2" frameY="0" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0010" x="2902" y="20" width="345" height="754" frameX="-2" frameY="0" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0011" x="2902" y="20" width="345" height="754" frameX="-2" frameY="0" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0012" x="2902" y="20" width="345" height="754" frameX="-2" frameY="0" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0013" x="2902" y="20" width="345" height="754" frameX="-2" frameY="0" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleLEFT0014" x="2902" y="20" width="345" height="754" frameX="-2" frameY="0" frameWidth="347" frameHeight="754"/>
+	<SubTexture name="lanelleRIGHT0000" x="3267" y="20" width="455" height="727" frameX="-9" frameY="-2" frameWidth="477" frameHeight="729"/>
+	<SubTexture name="lanelleRIGHT0001" x="3267" y="20" width="455" height="727" frameX="-9" frameY="-2" frameWidth="477" frameHeight="729"/>
+	<SubTexture name="lanelleRIGHT0002" x="20" y="817" width="473" height="728" frameX="-4" frameY="-1" frameWidth="477" frameHeight="729"/>
+	<SubTexture name="lanelleRIGHT0003" x="20" y="817" width="473" height="728" frameX="-4" frameY="-1" frameWidth="477" frameHeight="729"/>
+	<SubTexture name="lanelleRIGHT0004" x="513" y="817" width="477" height="729"/>
+	<SubTexture name="lanelleRIGHT0005" x="513" y="817" width="477" height="729"/>
+	<SubTexture name="lanelleRIGHT0006" x="513" y="817" width="477" height="729"/>
+	<SubTexture name="lanelleRIGHT0007" x="513" y="817" width="477" height="729"/>
+	<SubTexture name="lanelleRIGHT0008" x="513" y="817" width="477" height="729"/>
+	<SubTexture name="lanelleRIGHT0009" x="513" y="817" width="477" height="729"/>
+	<SubTexture name="lanelleRIGHT0010" x="513" y="817" width="477" height="729"/>
+	<SubTexture name="lanelleRIGHT0011" x="513" y="817" width="477" height="729"/>
+	<SubTexture name="lanelleRIGHT0012" x="513" y="817" width="477" height="729"/>
+	<SubTexture name="lanelleRIGHT0013" x="513" y="817" width="477" height="729"/>
+	<SubTexture name="lanelleRIGHT0014" x="513" y="817" width="477" height="729"/>
+	<SubTexture name="lanelleUP0000" x="1010" y="817" width="301" height="800" frameX="0" frameY="0" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0001" x="1010" y="817" width="301" height="800" frameX="0" frameY="0" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0002" x="1331" y="817" width="319" height="780" frameX="-8" frameY="-20" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0003" x="1331" y="817" width="319" height="780" frameX="-8" frameY="-20" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0004" x="1670" y="817" width="327" height="771" frameX="-4" frameY="-29" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0005" x="1670" y="817" width="327" height="771" frameX="-4" frameY="-29" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0006" x="1670" y="817" width="327" height="771" frameX="-4" frameY="-29" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0007" x="1670" y="817" width="327" height="771" frameX="-4" frameY="-29" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0008" x="1670" y="817" width="327" height="771" frameX="-4" frameY="-29" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0009" x="1670" y="817" width="327" height="771" frameX="-4" frameY="-29" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0010" x="1670" y="817" width="327" height="771" frameX="-4" frameY="-29" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0011" x="1670" y="817" width="327" height="771" frameX="-4" frameY="-29" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0012" x="1670" y="817" width="327" height="771" frameX="-4" frameY="-29" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0013" x="1670" y="817" width="327" height="771" frameX="-4" frameY="-29" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="lanelleUP0014" x="1670" y="817" width="327" height="771" frameX="-4" frameY="-29" frameWidth="331" frameHeight="800"/>
+</TextureAtlas>

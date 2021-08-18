@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_characters.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle dance white0000" x="20" y="20" width="406" height="392" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0001" x="20" y="20" width="406" height="392" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0002" x="446" y="20" width="408" height="393" frameX="0" frameY="-19" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0003" x="446" y="20" width="408" height="393" frameX="0" frameY="-19" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0004" x="874" y="20" width="405" height="398" frameX="-3" frameY="-14" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0005" x="874" y="20" width="405" height="398" frameX="-3" frameY="-14" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0006" x="1299" y="20" width="410" height="411" frameX="-1" frameY="-1" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0007" x="1299" y="20" width="410" height="411" frameX="-1" frameY="-1" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0008" x="1729" y="20" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0009" x="1729" y="20" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0010" x="1729" y="20" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0011" x="1729" y="20" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0012" x="1729" y="20" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="BF idle dance white0013" x="1729" y="20" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="GF Dancing Beat WHITE0000" x="2157" y="20" width="699" height="634" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0001" x="2876" y="20" width="703" height="634" frameX="0" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0002" x="20" y="674" width="703" height="632" frameX="0" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0003" x="743" y="674" width="699" height="632" frameX="-2" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0004" x="1462" y="674" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0005" x="2181" y="674" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0006" x="2900" y="674" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0007" x="20" y="1331" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0008" x="20" y="1331" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0009" x="20" y="1331" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0010" x="739" y="1331" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0011" x="739" y="1331" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0012" x="739" y="1331" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0013" x="1458" y="1331" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0014" x="1458" y="1331" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0015" x="2177" y="1331" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0016" x="2896" y="1331" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0017" x="20" y="1999" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0018" x="743" y="1999" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0019" x="1462" y="1999" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0020" x="2181" y="1999" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0021" x="2900" y="1999" width="699" height="638" frameX="-2" frameY="-10" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0022" x="20" y="2657" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0023" x="20" y="2657" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0024" x="20" y="2657" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0025" x="739" y="2657" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0026" x="739" y="2657" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0027" x="739" y="2657" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0028" x="1458" y="2657" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat WHITE0029" x="1458" y="2657" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="lane idle0000" x="2177" y="2657" width="459" height="538" frameX="-6" frameY="-30" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0001" x="2177" y="2657" width="459" height="538" frameX="-6" frameY="-30" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0002" x="2656" y="2657" width="461" height="553" frameX="0" frameY="-15" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0003" x="2656" y="2657" width="461" height="553" frameX="0" frameY="-15" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0004" x="3137" y="2657" width="450" height="554" frameX="-14" frameY="-6" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0005" x="3137" y="2657" width="450" height="554" frameX="-14" frameY="-6" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0006" x="3607" y="2657" width="452" height="563" frameX="-7" frameY="0" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0007" x="3607" y="2657" width="452" height="563" frameX="-7" frameY="0" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0008" x="3607" y="2657" width="452" height="563" frameX="-7" frameY="0" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0009" x="3607" y="2657" width="452" height="563" frameX="-7" frameY="0" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0010" x="3607" y="2657" width="452" height="563" frameX="-7" frameY="0" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0011" x="3607" y="2657" width="452" height="563" frameX="-7" frameY="0" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0012" x="3607" y="2657" width="452" height="563" frameX="-7" frameY="0" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0013" x="3607" y="2657" width="452" height="563" frameX="-7" frameY="0" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="lane idle0014" x="3607" y="2657" width="452" height="563" frameX="-7" frameY="0" frameWidth="465" frameHeight="568"/>
+	<SubTexture name="laneBlackLines0000" x="20" y="3320" width="360" height="454" frameX="-29" frameY="-9" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0001" x="20" y="3320" width="360" height="454" frameX="-29" frameY="-9" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0002" x="400" y="3320" width="393" height="453" frameX="-12" frameY="-10" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0003" x="400" y="3320" width="393" height="453" frameX="-12" frameY="-10" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0004" x="813" y="3320" width="413" height="459" frameX="0" frameY="-4" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0005" x="813" y="3320" width="413" height="459" frameX="0" frameY="-4" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0006" x="1246" y="3320" width="383" height="460" frameX="-15" frameY="-3" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0007" x="1246" y="3320" width="383" height="460" frameX="-15" frameY="-3" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0008" x="1649" y="3320" width="386" height="458" frameX="-13" frameY="-5" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0009" x="1649" y="3320" width="386" height="458" frameX="-13" frameY="-5" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0010" x="2055" y="3320" width="390" height="451" frameX="-12" frameY="-12" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0011" x="2055" y="3320" width="390" height="451" frameX="-12" frameY="-12" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0012" x="2465" y="3320" width="374" height="463" frameX="-20" frameY="0" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0013" x="2465" y="3320" width="374" height="463" frameX="-20" frameY="0" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="laneBlackLines0014" x="2465" y="3320" width="374" height="463" frameX="-20" frameY="0" frameWidth="413" frameHeight="463"/>
+	<SubTexture name="lanelleBlackLines0000" x="2859" y="3320" width="250" height="761" frameX="-15" frameY="-16" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0001" x="2859" y="3320" width="250" height="761" frameX="-15" frameY="-16" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0002" x="3129" y="3320" width="264" height="768" frameX="-1" frameY="-9" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0003" x="3129" y="3320" width="264" height="768" frameX="-1" frameY="-9" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0004" x="3413" y="3320" width="260" height="774" frameX="0" frameY="-3" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0005" x="3413" y="3320" width="260" height="774" frameX="0" frameY="-3" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0006" x="3693" y="3320" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0007" x="3693" y="3320" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0008" x="3693" y="3320" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0009" x="3693" y="3320" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0010" x="3693" y="3320" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0011" x="3693" y="3320" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0012" x="3693" y="3320" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0013" x="3693" y="3320" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+	<SubTexture name="lanelleBlackLines0014" x="3693" y="3320" width="253" height="777" frameX="-7" frameY="0" frameWidth="265" frameHeight="777"/>
+</TextureAtlas>

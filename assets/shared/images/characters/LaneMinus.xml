@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LaneMinus.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MinusLaneDEADwait0000" x="20" y="20" width="149" height="76" frameX="-11" frameY="-8" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0001" x="189" y="20" width="169" height="95"/>
+	<SubTexture name="MinusLaneDEADwait0002" x="189" y="20" width="169" height="95"/>
+	<SubTexture name="MinusLaneDEADwait0003" x="378" y="20" width="165" height="88" frameX="-3" frameY="-3" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0004" x="378" y="20" width="165" height="88" frameX="-3" frameY="-3" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0005" x="563" y="20" width="156" height="83" frameX="-7" frameY="-6" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0006" x="563" y="20" width="156" height="83" frameX="-7" frameY="-6" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0007" x="739" y="20" width="153" height="80" frameX="-9" frameY="-7" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0008" x="739" y="20" width="153" height="80" frameX="-9" frameY="-7" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0009" x="739" y="20" width="153" height="80" frameX="-9" frameY="-7" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0010" x="739" y="20" width="153" height="80" frameX="-9" frameY="-7" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0011" x="739" y="20" width="153" height="80" frameX="-9" frameY="-7" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0012" x="739" y="20" width="153" height="80" frameX="-9" frameY="-7" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0013" x="739" y="20" width="153" height="80" frameX="-9" frameY="-7" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0014" x="739" y="20" width="153" height="80" frameX="-9" frameY="-7" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0015" x="739" y="20" width="153" height="80" frameX="-9" frameY="-7" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDEADwait0016" x="739" y="20" width="153" height="80" frameX="-9" frameY="-7" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10000" x="912" y="20" width="455" height="489" frameX="-4" frameY="-87" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10001" x="912" y="20" width="455" height="489" frameX="-4" frameY="-87" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10002" x="1387" y="20" width="457" height="478" frameX="-22" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10003" x="1387" y="20" width="457" height="478" frameX="-22" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10004" x="1864" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10005" x="1864" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10006" x="1864" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10007" x="1864" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10008" x="1864" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10009" x="1864" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10010" x="1864" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10011" x="1864" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10012" x="1864" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10013" x="1864" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10014" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10015" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10016" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10017" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10018" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10019" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10020" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10021" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10022" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10023" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10024" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10025" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10026" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10027" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10028" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10029" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10030" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10031" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10032" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10033" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10034" x="2341" y="20" width="457" height="478" frameX="-25" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10035" x="2818" y="20" width="457" height="478" frameX="-22" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10036" x="2818" y="20" width="457" height="478" frameX="-22" frameY="-98" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10037" x="3295" y="20" width="486" height="422" frameX="-81" frameY="-114" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10038" x="3295" y="20" width="486" height="422" frameX="-81" frameY="-114" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10039" x="20" y="529" width="686" height="585" frameX="-8" frameY="-17" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10040" x="726" y="529" width="686" height="585" frameX="-8" frameY="-17" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10041" x="1432" y="529" width="712" height="610"/>
+	<SubTexture name="MinusLaneDead10042" x="2164" y="529" width="712" height="610"/>
+	<SubTexture name="MinusLaneDead10043" x="2896" y="529" width="488" height="515" frameX="-61" frameY="-77" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10044" x="3404" y="529" width="488" height="515" frameX="-61" frameY="-77" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10045" x="563" y="20" width="156" height="83" frameX="-249" frameY="-333" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10046" x="739" y="20" width="153" height="80" frameX="-251" frameY="-334" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10047" x="739" y="20" width="153" height="80" frameX="-251" frameY="-334" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10048" x="739" y="20" width="153" height="80" frameX="-251" frameY="-334" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10049" x="739" y="20" width="153" height="80" frameX="-251" frameY="-334" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10050" x="739" y="20" width="153" height="80" frameX="-251" frameY="-334" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10051" x="739" y="20" width="153" height="80" frameX="-251" frameY="-334" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10052" x="739" y="20" width="153" height="80" frameX="-251" frameY="-334" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10053" x="739" y="20" width="153" height="80" frameX="-251" frameY="-334" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10054" x="739" y="20" width="153" height="80" frameX="-251" frameY="-334" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10055" x="739" y="20" width="153" height="80" frameX="-251" frameY="-334" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10056" x="20" y="20" width="149" height="76" frameX="-253" frameY="-336" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneDead10057" x="20" y="1159" width="168" height="96" frameX="-242" frameY="-327" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10058" x="20" y="1159" width="168" height="96" frameX="-242" frameY="-327" frameWidth="712" frameHeight="610"/>
+	<SubTexture name="MinusLaneDead10059" x="378" y="20" width="165" height="88" frameX="-245" frameY="-330" frameWidth="169" frameHeight="95"/>
+	<SubTexture name="MinusLaneMissD0000" x="208" y="1159" width="306" height="322" frameX="-4" frameY="-24" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0001" x="208" y="1159" width="306" height="322" frameX="-4" frameY="-24" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0002" x="534" y="1159" width="294" height="342" frameX="0" frameY="-4" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0003" x="534" y="1159" width="294" height="342" frameX="0" frameY="-4" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0004" x="848" y="1159" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0005" x="848" y="1159" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0006" x="848" y="1159" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0007" x="848" y="1159" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0008" x="848" y="1159" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0009" x="848" y="1159" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0010" x="848" y="1159" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0011" x="848" y="1159" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0012" x="848" y="1159" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0013" x="848" y="1159" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissD0014" x="848" y="1159" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLaneMissL0000" x="1156" y="1159" width="454" height="489" frameX="0" frameY="0" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0001" x="1156" y="1159" width="454" height="489" frameX="0" frameY="0" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0002" x="1630" y="1159" width="456" height="478" frameX="-12" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0003" x="1630" y="1159" width="456" height="478" frameX="-12" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0004" x="2106" y="1159" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0005" x="2106" y="1159" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0006" x="2106" y="1159" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0007" x="2106" y="1159" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0008" x="2106" y="1159" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0009" x="2106" y="1159" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0010" x="2106" y="1159" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0011" x="2106" y="1159" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0012" x="2106" y="1159" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0013" x="2106" y="1159" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissL0014" x="2106" y="1159" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLaneMissR0000" x="2583" y="1159" width="390" height="437" frameX="-12" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0001" x="2583" y="1159" width="390" height="437" frameX="-12" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0002" x="2993" y="1159" width="378" height="438" frameX="-1" frameY="0" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0003" x="2993" y="1159" width="378" height="438" frameX="-1" frameY="0" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0004" x="3391" y="1159" width="382" height="437" frameX="0" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0005" x="3391" y="1159" width="382" height="437" frameX="0" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0006" x="3391" y="1159" width="382" height="437" frameX="0" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0007" x="3391" y="1159" width="382" height="437" frameX="0" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0008" x="3391" y="1159" width="382" height="437" frameX="0" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0009" x="3391" y="1159" width="382" height="437" frameX="0" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0010" x="3391" y="1159" width="382" height="437" frameX="0" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0011" x="3391" y="1159" width="382" height="437" frameX="0" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0012" x="3391" y="1159" width="382" height="437" frameX="0" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0013" x="3391" y="1159" width="382" height="437" frameX="0" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissR0014" x="3391" y="1159" width="382" height="437" frameX="0" frameY="-1" frameWidth="402" frameHeight="438"/>
+	<SubTexture name="MinusLaneMissU0000" x="20" y="1668" width="433" height="473" frameX="0" frameY="0" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0001" x="20" y="1668" width="433" height="473" frameX="0" frameY="0" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0002" x="473" y="1668" width="437" height="461" frameX="-9" frameY="-12" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0003" x="473" y="1668" width="437" height="461" frameX="-9" frameY="-12" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0004" x="930" y="1668" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0005" x="930" y="1668" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0006" x="930" y="1668" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0007" x="930" y="1668" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0008" x="930" y="1668" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0009" x="930" y="1668" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0010" x="930" y="1668" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0011" x="930" y="1668" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0012" x="930" y="1668" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0013" x="930" y="1668" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLaneMissU0014" x="930" y="1668" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="MinusLane_DOWN0000" x="1392" y="1668" width="306" height="328" frameX="-4" frameY="-18" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0001" x="1392" y="1668" width="306" height="328" frameX="-4" frameY="-18" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0002" x="1718" y="1668" width="294" height="342" frameX="0" frameY="-4" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0003" x="1718" y="1668" width="294" height="342" frameX="0" frameY="-4" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0004" x="2032" y="1668" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0005" x="2032" y="1668" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0006" x="2032" y="1668" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0007" x="2032" y="1668" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0008" x="2032" y="1668" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0009" x="2032" y="1668" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0010" x="2032" y="1668" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0011" x="2032" y="1668" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0012" x="2032" y="1668" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0013" x="2032" y="1668" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_DOWN0014" x="2032" y="1668" width="288" height="346" frameX="-6" frameY="0" frameWidth="310" frameHeight="346"/>
+	<SubTexture name="MinusLane_LEFT0000" x="2340" y="1668" width="457" height="489" frameX="0" frameY="0" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0001" x="2340" y="1668" width="457" height="489" frameX="0" frameY="0" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0002" x="2817" y="1668" width="456" height="478" frameX="-12" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0003" x="2817" y="1668" width="456" height="478" frameX="-12" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0004" x="3293" y="1668" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0005" x="3293" y="1668" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0006" x="3293" y="1668" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0007" x="3293" y="1668" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0008" x="3293" y="1668" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0009" x="3293" y="1668" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0010" x="3293" y="1668" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0011" x="3293" y="1668" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0012" x="3293" y="1668" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0013" x="3293" y="1668" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_LEFT0014" x="3293" y="1668" width="457" height="478" frameX="-15" frameY="-11" frameWidth="472" frameHeight="489"/>
+	<SubTexture name="MinusLane_RIGHT0000" x="20" y="2177" width="390" height="437" frameX="-10" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0001" x="20" y="2177" width="390" height="437" frameX="-10" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0002" x="430" y="2177" width="378" height="438" frameX="-1" frameY="0" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0003" x="430" y="2177" width="378" height="438" frameX="-1" frameY="0" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0004" x="828" y="2177" width="382" height="437" frameX="0" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0005" x="828" y="2177" width="382" height="437" frameX="0" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0006" x="828" y="2177" width="382" height="437" frameX="0" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0007" x="828" y="2177" width="382" height="437" frameX="0" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0008" x="828" y="2177" width="382" height="437" frameX="0" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0009" x="828" y="2177" width="382" height="437" frameX="0" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0010" x="828" y="2177" width="382" height="437" frameX="0" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0011" x="828" y="2177" width="382" height="437" frameX="0" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0012" x="828" y="2177" width="382" height="437" frameX="0" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0013" x="828" y="2177" width="382" height="437" frameX="0" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="MinusLane_RIGHT0014" x="828" y="2177" width="382" height="437" frameX="0" frameY="-1" frameWidth="400" frameHeight="438"/>
+	<SubTexture name="lane idle0000" x="1230" y="2177" width="477" height="401" frameX="0" frameY="-24" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0001" x="1230" y="2177" width="477" height="401" frameX="0" frameY="-24" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0002" x="1727" y="2177" width="455" height="415" frameX="-11" frameY="-10" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0003" x="1727" y="2177" width="455" height="415" frameX="-11" frameY="-10" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0004" x="2202" y="2177" width="461" height="417" frameX="-6" frameY="-8" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0005" x="2202" y="2177" width="461" height="417" frameX="-6" frameY="-8" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0006" x="2683" y="2177" width="466" height="425" frameX="-1" frameY="0" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0007" x="2683" y="2177" width="466" height="425" frameX="-1" frameY="0" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0008" x="2683" y="2177" width="466" height="425" frameX="-1" frameY="0" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0009" x="2683" y="2177" width="466" height="425" frameX="-1" frameY="0" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0010" x="2683" y="2177" width="466" height="425" frameX="-1" frameY="0" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0011" x="2683" y="2177" width="466" height="425" frameX="-1" frameY="0" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0012" x="2683" y="2177" width="466" height="425" frameX="-1" frameY="0" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0013" x="2683" y="2177" width="466" height="425" frameX="-1" frameY="0" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="lane idle0014" x="3169" y="2177" width="466" height="425" frameX="-1" frameY="0" frameWidth="477" frameHeight="425"/>
+	<SubTexture name="minusLaneUP0000" x="20" y="2635" width="433" height="473" frameX="0" frameY="0" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0001" x="20" y="2635" width="433" height="473" frameX="0" frameY="0" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0002" x="473" y="2635" width="437" height="461" frameX="-9" frameY="-12" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0003" x="473" y="2635" width="437" height="461" frameX="-9" frameY="-12" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0004" x="930" y="2635" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0005" x="930" y="2635" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0006" x="930" y="2635" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0007" x="930" y="2635" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0008" x="930" y="2635" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0009" x="930" y="2635" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0010" x="930" y="2635" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0011" x="930" y="2635" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0012" x="930" y="2635" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0013" x="930" y="2635" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="minusLaneUP0014" x="930" y="2635" width="442" height="456" frameX="-3" frameY="-17" frameWidth="446" frameHeight="473"/>
+	<SubTexture name="retry confirm0000" x="1392" y="2635" width="171" height="98" frameX="-79" frameY="-89" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0001" x="1583" y="2635" width="289" height="216" frameX="-20" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0002" x="1892" y="2635" width="289" height="276" frameX="-20" frameY="0" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0003" x="2201" y="2635" width="289" height="216" frameX="-20" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0004" x="2510" y="2635" width="289" height="216" frameX="-20" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0005" x="2819" y="2635" width="289" height="216" frameX="-20" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0006" x="3128" y="2635" width="289" height="216" frameX="-20" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0007" x="3437" y="2635" width="289" height="216" frameX="-20" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0008" x="3746" y="2635" width="289" height="216" frameX="-20" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0009" x="20" y="3128" width="289" height="216" frameX="-20" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0010" x="329" y="3128" width="289" height="216" frameX="-20" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0011" x="638" y="3128" width="289" height="216" frameX="-20" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0012" x="947" y="3128" width="291" height="216" frameX="-19" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0013" x="1258" y="3128" width="295" height="216" frameX="-17" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0014" x="1573" y="3128" width="301" height="216" frameX="-14" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0015" x="1894" y="3128" width="305" height="216" frameX="-12" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0016" x="2219" y="3128" width="311" height="216" frameX="-9" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0017" x="2550" y="3128" width="313" height="216" frameX="-8" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0018" x="2883" y="3128" width="317" height="216" frameX="-6" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0019" x="3220" y="3128" width="321" height="216" frameX="-4" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0020" x="3561" y="3128" width="323" height="216" frameX="-3" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0021" x="20" y="3364" width="325" height="216" frameX="-2" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0022" x="365" y="3364" width="327" height="216" frameX="-1" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0023" x="712" y="3364" width="327" height="216" frameX="-1" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0024" x="1059" y="3364" width="329" height="216" frameX="0" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0025" x="1059" y="3364" width="329" height="216" frameX="0" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0026" x="1059" y="3364" width="329" height="216" frameX="0" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0027" x="1059" y="3364" width="329" height="216" frameX="0" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0028" x="1059" y="3364" width="329" height="216" frameX="0" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0029" x="1059" y="3364" width="329" height="216" frameX="0" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0030" x="1059" y="3364" width="329" height="216" frameX="0" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0031" x="1059" y="3364" width="329" height="216" frameX="0" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0032" x="1059" y="3364" width="329" height="216" frameX="0" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0033" x="1059" y="3364" width="329" height="216" frameX="0" frameY="-30" frameWidth="329" frameHeight="276"/>
+	<SubTexture name="retry confirm0034" x="1059" y="3364" width="329" height="216" frameX="0" frameY="-30" frameWidth="329" frameHeight="276"/>
+</TextureAtlas>
